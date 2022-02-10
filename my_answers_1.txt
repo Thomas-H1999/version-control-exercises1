@@ -1,3 +1,11 @@
 new file
 
+<<<<<<< HEAD
 add data
+=======
+
+
+test
+
+test1
+>>>>>>> e8126e0019dfc833e2d47945422fa160cdead3e7
